@@ -28,6 +28,9 @@ Assets/StreamingAssets/
 *.mp4
 *.ogg
 
+#.gitkeep folder
+Assets/StreamingAssets/.gitkeep
+
 # Unity3D generated meta files
 *.pidb.meta
 
