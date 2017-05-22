@@ -24,12 +24,9 @@ ExportedObj/
 *.pdb
 
 # Streaming Assets
-Assets/StreamingAssets/
-*.mp4
-*.ogg
+Assets/StreamingAssets/*.mp4
+Assets/StreamingAssets/*.ogg
 
-#.gitkeep folder
-Assets/StreamingAssets/.gitkeep
 
 # Unity3D generated meta files
 *.pidb.meta
