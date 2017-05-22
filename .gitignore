@@ -23,6 +23,11 @@ ExportedObj/
 *.svd
 *.pdb
 
+# Streaming Assets
+Assets/StreamingAssets/
+*.mp4
+*.ogg
+
 # Unity3D generated meta files
 *.pidb.meta
 
